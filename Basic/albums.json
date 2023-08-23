@@ -1,0 +1,119 @@
+{
+    "album_ratubgs": [],
+    "song_ratings": [],
+    "tier_lists": [
+        {
+            "tier_list_name": "LP Tier List",
+            "artist": "linkin park",
+            "s_tier": [
+                {
+                    "album": " A Thousand Suns",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/6739cae9f90edc1b6c6f5c96679b0b53.jpg"
+                },
+                {
+                    "album": " Bleed It Out",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/5178948dfe164faab966621f7f80cd62.jpg"
+                },
+                {
+                    "album": " Burn It Down",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/f557c5bf7dda1bde6db3153cda45d9a1.jpg"
+                },
+                {
+                    "album": " Hybrid Theory",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/cc15ebc58ec625979776cabaaaa282fa.jpg"
+                },
+                {
+                    "album": " Meteora",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+                },
+                {
+                    "album": " What I've Done",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/0f132bfe5c6e4c77ba39aa215aae302b.jpg"
+                }
+            ],
+            "a_tier": [
+                {
+                    "album": " Greatest Hits",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/7ff4599dc712769dd262fcff394a61cc.jpg"
+                },
+                {
+                    "album": " Heavy (feat. Kiiara)",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/ec9b0940ce6c1418206c6154f9fda75b.jpg"
+                },
+                {
+                    "album": " Hybrid Theory EP",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/31b962284bdc7078a61727ef9e702660.png"
+                },
+                {
+                    "album": " Iridescent",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/892127945d088112949ce95cc6028ec4.jpg"
+                },
+                {
+                    "album": " Minutes to Midnight",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+                },
+                {
+                    "album": " New Divide",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/9e982ba0daa2807e7694c9530ec01c5d.jpg"
+                },
+                {
+                    "album": " One More Light",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/5e03d7c6d69c19819b07cef436e73413.jpg"
+                },
+                {
+                    "album": " The Catalyst",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/5447f1ccae1142739e762b28c3599157.jpg"
+                }
+            ],
+            "b_tier": [
+                {
+                    "album": " Given Up",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/c6e2a056f1194d76b6dddc7d22435c9b.jpg"
+                },
+                {
+                    "album": " Collision Course",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/17337cd6a2094ec0a2b583093c9e803a.jpg"
+                },
+                {
+                    "album": " Lost",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/914caf6b02e51118f2353625e6244c1d.jpg"
+                },
+                {
+                    "album": " Recharged",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/35306f5b8fcf9b961903fa6b3ec6163c.jpg"
+                }
+            ],
+            "c_tier": [
+                {
+                    "album": " Fighting Myself",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/e3241169870d0303bb8aa6a62752ca2a.png"
+                },
+                {
+                    "album": " Not Alone",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/8e74644a5afd44399b43636383d41e78.jpg"
+                },
+                {
+                    "album": " Reanimation",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/7135e01b8a5e3179851d660d81a09c48.jpg"
+                }
+            ],
+            "d_tier": [
+                {
+                    "album": " She Couldn't",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/7456abf1566726820a5d4406431454fc.jpg"
+                }
+            ],
+            "e_tier": [
+                {
+                    "album": " Waiting for the End",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/40d93ff0b9e64c0b9902879e8d922e48.png"
+                },
+                {
+                    "album": " The Hunting Party",
+                    "cover_art": "https://lastfm.freetls.fastly.net/i/u/300x300/8b39370c7443dd7c2711f8ea1f6fa0dd.jpg"
+                }
+            ],
+            "time": "2023-08-23 11:28:37.111652"
+        }
+    ]
+}
